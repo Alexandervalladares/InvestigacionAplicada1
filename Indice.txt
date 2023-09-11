@@ -1,1 +1,6 @@
 Capítulo 1: Introducción a Git.
+Capítulo 2: Flujo de trabajo básicos.
+Capítulo 3: Repositorios remotos.
+Capítulo 4: Repositorios remotos
+git commit -m "Añadido índice del libro."
+git commit --amend -m "Añadido capítulo 3 sobre gestión de ramas al índice"
